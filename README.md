@@ -1,4 +1,3 @@
-![alt text](?raw=true)
 # StokPro — Sistem Manajemen Stok (PHP)
 
 ## Struktur Proyek
@@ -43,5 +42,25 @@ stokpro/
 | admin   | password | admin | CRUD produk + semua fitur |
 | kasir   | password | kasir | Lihat produk + transaksi stok |
 
-## Interface
+## Interface Sistem
+**Dasboard**
+![alt text](https://github.com/ganggaswadiaya/stokpro/blob/main/pic/Screenshot%202026-03-06%20184732.png?raw=true)
+
+**Tabel Produk**
+![alt text](https://github.com/ganggaswadiaya/stokpro/blob/main/pic/Screenshot%202026-03-06%20184747.png?raw=true)
+
+**Tambah Produk**
+![alt text](https://github.com/ganggaswadiaya/stokpro/blob/main/pic/Screenshot%202026-03-06%20184804.png?raw=true)
+
+**Stok Masuk**
+![alt text](https://github.com/ganggaswadiaya/stokpro/blob/main/pic/Screenshot%202026-03-06%20184828.png?raw=true)
+
+**Stok Keluar**
+![alt text](https://github.com/ganggaswadiaya/stokpro/blob/main/pic/Screenshot%202026-03-06%20184841.png?raw=true)
+
+**Riawayat**
+![alt text](https://github.com/ganggaswadiaya/stokpro/blob/main/pic/Screenshot%202026-03-06%20184857.png?raw=true)
+
+**Laporan**
+![alt text](https://github.com/ganggaswadiaya/stokpro/blob/main/pic/Screenshot%202026-03-06%20184907.png?raw=true)
 
