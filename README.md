@@ -1,3 +1,4 @@
+![alt text](?raw=true)
 # StokPro — Sistem Manajemen Stok (PHP)
 
 ## Struktur Proyek
@@ -41,3 +42,6 @@ stokpro/
 |---|---|---|---|
 | admin   | password | admin | CRUD produk + semua fitur |
 | kasir   | password | kasir | Lihat produk + transaksi stok |
+
+## Interface
+
